@@ -23,14 +23,23 @@
 📍 Map Visualization
 
 📊 Clustered Bar Chart
-🛠 Tools & Technologies Used:
-Power BI – For data visualization and interactive dashboards
-Excel – For data cleaning, preprocessing, and initial analysis
+This Power BI Sales Dashboard was created as a part of my learning journey in data visualization and analytics.  
+
+Tools Used:  
+- Power BI – for interactive data visualization  
+- Excel/CSV Data – for raw data processing  
+
+Learning Source:  
+I learned and built this dashboard by following tutorials from *Rishabh Mishra's YouTube channel. His content provided valuable insights into **Power BI dashboard creation, data modeling, and business intelligence concepts.
+This project helped me gain hands-on experience in data visualization, trend analysis, and business insights using Power BI.
 
 📂 Dataset
 This project includes two CSV files used for Power BI visualization:
 1. Orders.csv – Contains order details, including order ID, amount, profit, quantity, and payment method.
 2. Details.csv – Includes category, sub-category, and customer purchase details.
+
+Dashboard Preview 
+Screenshot of the Power BI dashboard are available in the 'image/'folder.You can check them out to get a visual understanding of the analysis.
 
 
 🚀 How to Use:
